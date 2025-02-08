@@ -4,7 +4,7 @@ git add .
 
 # Passo 2
 
-git commut -m "First commit"
+git commit -m "First commit"
 
 # Passo 3
 
